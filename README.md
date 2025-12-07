@@ -21,5 +21,4 @@ avoid data leakage, and improve reproducibility.
 ## Results:
 - Pipeline approach reduced code complexity by 40%  
 - Improved model consistency and eliminated preprocessing errors  
-- Achieved **X% test accuracy**
 
